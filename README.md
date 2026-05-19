@@ -1,2 +1,2 @@
 # neuralstack
-Building and experimenting with Machine Learning &amp; Deep Learning models using Python, PyTorch, Keras and modern AI techniques. A collection of hands-on projects, notebooks, and practical implementations focused on learning, building and innovation.
+Building and experimenting with Machine Learning &amp; Deep Learning models using Python, PyTorch, Keras and modern AI techniques. A collection of hands-on projects, notebooks, and practical implementations focused on learning, building and innovation!
